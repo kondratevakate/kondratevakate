@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I'm currently a PhD student at the Skoltech and I research computer vision in medical imaging. My Check out my website / blog and [LinkedIn](https://www.linkedin.com/in/kondratevakate/) profile for more. I also have medical background, and finished radiology courses and have experience in deploing ML models. 
+- 🔭 I'm currently finishing PhD at Skoltech and I research computer vision in medical imaging. My Check out my website / blog and [LinkedIn](https://www.linkedin.com/in/kondratevakate/) profile for more. I also have medical background, and finished radiology courses and have experience in deploing ML models. 
 
 - 💬 Ask me about *brain MRI data*
 
