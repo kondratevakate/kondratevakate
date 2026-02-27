@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I do computer vision for medical imaging and currently finishing PhD at [GROW MAASTRO]([https://skoltech.ru/](https://library.maastrichtuniversity.nl/database/google-scholar/)). Check out my [LinkedIn](https://www.linkedin.com/in/kondratevakate/) profile for more. 
+- 🔭 I do computer vision for medical imaging, running a startup in UAE and doing remote PhD at [GROW MAASTRO]([https://skoltech.ru/](https://library.maastrichtuniversity.nl/database/google-scholar/)). Check out my [LinkedIn](https://www.linkedin.com/in/kondratevakate/) profile for more. 
 
 - 💬 Ask me about *brain MRI data*. I'd like to talk about ^^
 
